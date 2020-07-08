@@ -47,10 +47,6 @@ birth
 4 = 1981 bis 1990,
 5 = 1991 bis 2000.
 
-married
-1 = ja,
-2 = nein.
-
 ethnicity
 1 = deutsch,
 2 = Mittel/Osteuropa (auch UK),
