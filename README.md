@@ -58,7 +58,7 @@ ethnicity
 8 = Russland,
 9 = Afrika.
 
-frequency (wie oft wurde in einem Weinstein Film mitgespielt?)
+frequency
 1 = bis zweimal, 
 2 = bis viermal, 
 3 = bis sechsmal. 
