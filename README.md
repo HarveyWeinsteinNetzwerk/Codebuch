@@ -10,7 +10,7 @@ weight
 1 = Hauptrolle im Film, 
 2 = Nebenrolle im Film.
 
-duration
+amount
 0 = noch gar nicht zusammen gespielt,
 1 = einmal zusammen gespielt,
 2 = zweimal zusammen gespielt, 
