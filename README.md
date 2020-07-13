@@ -12,9 +12,9 @@ weight
 2 = Nebenrolle im Film.
 
 amount
-1 = einmal mitgespielt 
-2 = zweimal mitgespielt, 
-3 = mehr als zweimal mitgespielt.
+1 = eine Schauspielerin im Film mitgespielt, 
+2 = zwei Schauspielerinnen im Film mitgespielt, 
+3 = mehr als zwei Schauspielerinnen im Film mitgespielt.
 
 relationship
 0 = haben im Film nicht zusammen gespielt,
