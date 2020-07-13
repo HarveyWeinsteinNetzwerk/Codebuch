@@ -3,18 +3,18 @@ Wir erstellen ein ungerichtetes Two-Mode-Netzwerk (Akteur-Unternehmen-Netzwerk) 
 
 # Edgelist
 
-from = ID des Knoten
-to = ID des Knoten (Richtung)
+from = Name Schauspielerin 
+to = Name des Films 
+to = Name der Produktionsfirma 
 
 weight 
-1 = Hauptrolle im Film, 
+1 = Hauptrolle im Film,
 2 = Nebenrolle im Film.
 
 amount
-0 = noch gar nicht zusammen gespielt,
-1 = einmal zusammen gespielt,
-2 = zweimal zusammen gespielt, 
-3 = mehr als zweimal zusammen gespielt.
+1 = einmal mitgespielt 
+2 = zweimal mitgespielt, 
+3 = mehr als zweimal mitgespielt.
 
 relationship
 0 = haben im Film nicht zusammen gespielt,
