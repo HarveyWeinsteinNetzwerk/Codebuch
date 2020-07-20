@@ -46,7 +46,7 @@ Wir erstellen ein ungerichtetes Two-Mode-Netzwerk (Akteur-Unternehmen-Netzwerk) 
 2 = The Weinstein Company,   
 3 = Universal Studios,       
 4 = Paramount Pictures,       
-3 = andere.       
+5 = andere.       
 
 # Nodelist
 
