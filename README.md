@@ -73,7 +73,8 @@ ID muss identisch zur Edgelist sein (z.B. Name, Abkürzung, etc.)
 8 = Russland,   
 9 = Afrika.   
 
-**frequency**   
+**frequency**  
+Anzahl der Produktionen unter Weinstein
 1 = bis zweimal,     
 2 = bis viermal,    
 3 = bis sechsmal.     
