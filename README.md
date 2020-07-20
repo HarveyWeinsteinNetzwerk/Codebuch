@@ -20,11 +20,7 @@ Wir erstellen ein ungerichtetes Two-Mode-Netzwerk (Akteur-Unternehmen-Netzwerk) 
 
 **from** = Name Schauspielerin     
 **to** = Name des Films     
-**to** = Name der Produktionsfirma     
-
-**weight**        
-1 = Hauptrolle im Film,       
-2 = Nebenrolle im Film.       
+**to** = Name der Produktionsfirma       
 
 **amount**    
 1 = eine Schauspielerin im Film mitgespielt,     
@@ -75,8 +71,8 @@ ID muss identisch zur Edgelist sein (z.B. Name, Abkürzung, etc.)
 8 = Russland,   
 9 = Afrika.   
 
-**frequency**  
-Anzahl der Produktionen unter Weinstein
+**frequency**       
+Anzahl der Produktionen unter Weinstein     
 1 = bis zweimal,     
 2 = bis viermal,    
 3 = bis sechsmal.     
