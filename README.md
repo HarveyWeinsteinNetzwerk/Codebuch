@@ -43,8 +43,10 @@ Wir erstellen ein ungerichtetes Two-Mode-Netzwerk (Akteur-Unternehmen-Netzwerk) 
 
 **production**     
 1 = Miramax,    
-2 = The Weinstein Company,     
-3 = andere.   
+2 = The Weinstein Company,   
+3 = Universal Studios,       
+4 = Paramount Pictures,       
+3 = andere.       
 
 # Nodelist
 
