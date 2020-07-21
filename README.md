@@ -31,18 +31,20 @@ ID muss identisch zur Edgelist sein (z.B. Name, Abkürzung, etc.)
 0 = Film,     
 1 = Schauspielerin.
 
-**year**     
-1 = ab 1980,    
-2 = ab 1990,    
-3 = ab 2000,    
-4 = ab 2010.    
-
 **production**     
+Produktionsfirma des Filmes 
 1 = Miramax,    
 2 = The Weinstein Company,   
 3 = Universal Studios,       
 4 = Paramount Pictures,       
 5 = andere.   
+
+**year**     
+Erscheinungsjahr Film 
+1 = ab 1980,    
+2 = ab 1990,    
+3 = ab 2000,    
+4 = ab 2010.    
 
 **sex**     
 1 = weiblich,   
