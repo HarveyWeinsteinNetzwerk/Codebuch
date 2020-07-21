@@ -1,8 +1,15 @@
 # Codebuch      
 
 **Datensatz**       
-Codebuch Stand 2020-07-23     
-erstellt von Clara Schneemann (cs286@hdm-stuttgart.de), Brigitte Buck (bb095@hdm-stuttgart.de), Lili Biberthaler (lb144@hdm-stuttgart.de), Valerija Vasylevytska (vv010@hdm-stuttgart.de), Michelle Noss (mn063@hdm-stuttgart.de), Julia Lindner (jl125@hdm-stuttgart.de)
+Codebuch Stand 2020-07-27  
+
+erstellt von 
+- Clara Schneemann (cs286@hdm-stuttgart.de)
+- Brigitte Buck (bb095@hdm-stuttgart.de)
+- Lili Biberthaler (lb144@hdm-stuttgart.de)
+- Valerija Vasylevytska (vv010@hdm-stuttgart.de)
+- Michelle Noss (mn063@hdm-stuttgart.de)
+- Julia Lindner (jl125@hdm-stuttgart.de)
 
 **Inhalt**      
 Edges.csv (Edgelist)      
@@ -25,7 +32,7 @@ https://www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies
 - Dokumentation "Harvey Weinstein, Chronik eines Skandals" 
 
 
-Wir erstellen ein ungerichtetes Two-Mode-Netzwerk (Akteur-Unternehmen-Netzwerk) aus Schauspielerinnen und Produktionsfirmen. Fehlende Daten werden mit NA bzw. 99 codiert. Die Daten sind aus eigener (Online-)Recherche entstanden.    
+Wir erstellen ein ungerichtetes Two-Mode-Netzwerk (Akteur-Unternehmen-Netzwerk) aus Schauspielerinnen und Produktionsfirmen. Fehlende Daten werden mit NA bzw. 99 codiert. Die Daten sind aus eigener (Online-)Recherche (s.o.) entstanden.    
 
 # Edgelist    
 
