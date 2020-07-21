@@ -33,6 +33,17 @@ Wir erstellen ein ungerichtetes Two-Mode-Netzwerk (Akteur-Unternehmen-Netzwerk) 
 **ID/Name**   
 ID muss identisch zur Edgelist sein (z.B. Name, Abkürzung, etc.)    
 
+**type**
+0 = Film,     
+1 = Schauspielerin.
+
+**production**     
+1 = Miramax,    
+2 = The Weinstein Company,   
+3 = Universal Studios,       
+4 = Paramount Pictures,       
+5 = andere.   
+
 **sex**     
 1 = weiblich,   
 2 = männlich.   
@@ -60,12 +71,5 @@ Anzahl der Produktionen unter Weinstein
 1 = bis zweimal,     
 2 = bis viermal,    
 3 = bis sechsmal.     
-
-**production**     
-1 = Miramax,    
-2 = The Weinstein Company,   
-3 = Universal Studios,       
-4 = Paramount Pictures,       
-5 = andere.   
 
 ##
