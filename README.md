@@ -19,8 +19,7 @@ Wir erstellen ein ungerichtetes Two-Mode-Netzwerk (Akteur-Unternehmen-Netzwerk) 
 # Edgelist    
 
 **from** = Name Schauspielerin     
-**to** = Name des Films     
-**to** = Name der Produktionsfirma            
+**to** = Name des Films               
 
 # Nodelist
 
