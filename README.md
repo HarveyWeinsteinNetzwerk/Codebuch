@@ -44,7 +44,8 @@ Wir erstellen ein ungerichtetes Two-Mode-Netzwerk (Akteur-Unternehmen-Netzwerk) 
 **ID/Name**   
 ID muss identisch zur Edgelist sein (z.B. Name, Abkürzung, etc.)    
 
-**type**      
+**type** 
+Typus
 0 = Film,         
 1 = Schauspielerin.   
     
