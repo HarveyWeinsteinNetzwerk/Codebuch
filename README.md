@@ -20,13 +20,7 @@ Wir erstellen ein ungerichtetes Two-Mode-Netzwerk (Akteur-Unternehmen-Netzwerk) 
 
 **from** = Name Schauspielerin     
 **to** = Name des Films     
-**to** = Name der Produktionsfirma        
-
-**year**     
-1 = ab 1980,    
-2 = ab 1990,    
-3 = ab 2000,    
-4 = ab 2010.        
+**to** = Name der Produktionsfirma            
 
 # Nodelist
 
@@ -36,6 +30,12 @@ ID muss identisch zur Edgelist sein (z.B. Name, Abkürzung, etc.)
 **type**
 0 = Film,     
 1 = Schauspielerin.
+
+**year**     
+1 = ab 1980,    
+2 = ab 1990,    
+3 = ab 2000,    
+4 = ab 2010.    
 
 **production**     
 1 = Miramax,    
