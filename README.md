@@ -20,29 +20,13 @@ Wir erstellen ein ungerichtetes Two-Mode-Netzwerk (Akteur-Unternehmen-Netzwerk) 
 
 **from** = Name Schauspielerin     
 **to** = Name des Films     
-**to** = Name der Produktionsfirma       
-
-**amount**    
-1 = eine Schauspielerin im Film mitgespielt,     
-2 = zwei Schauspielerinnen im Film mitgespielt,     
-3 = mehr als zwei Schauspielerinnen im Film mitgespielt.    
-
-**relationship**    
-0 = haben im Film nicht zusammen gespielt,    
-1 = haben im Film zusammen gespielt.    
+**to** = Name der Produktionsfirma        
 
 **year**     
 1 = ab 1980,    
 2 = ab 1990,    
 3 = ab 2000,    
-4 = ab 2010.    
-
-**production**     
-1 = Miramax,    
-2 = The Weinstein Company,   
-3 = Universal Studios,       
-4 = Paramount Pictures,       
-5 = andere.       
+4 = ab 2010.        
 
 # Nodelist
 
@@ -76,5 +60,12 @@ Anzahl der Produktionen unter Weinstein
 1 = bis zweimal,     
 2 = bis viermal,    
 3 = bis sechsmal.     
+
+**production**     
+1 = Miramax,    
+2 = The Weinstein Company,   
+3 = Universal Studios,       
+4 = Paramount Pictures,       
+5 = andere.   
 
 ##
