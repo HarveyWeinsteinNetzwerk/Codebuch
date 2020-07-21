@@ -2,7 +2,7 @@
 
 **Datensatz**       
 Codebuch Stand 2020-07-23     
-erstellt von Clara Schneemann (hdm), Brigitte Buck, Lili Biberthaler, Valerija Vas, Michelle Noss, Julia Lindner      
+erstellt von Clara Schneemann (cs286@hdm-stuttgart.de), Brigitte Buck (bb095@hdm-stuttgart.de), Lili Biberthaler (lb144@hdm-stuttgart.de), Valerija Vasylevytska (vv010@hdm-stuttgart.de), Michelle Noss (mn063@hdm-stuttgart.de), Julia Lindner (jl125@hdm-stuttgart.de)
 
 **Inhalt**      
 Edges.csv (Edgelist)      
