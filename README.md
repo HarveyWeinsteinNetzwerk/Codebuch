@@ -21,6 +21,7 @@ Wir haben den Datensatz aller Schauspielerinnen nach folgenden Recherchen erstel
 
 - https://www.theguardian.com/film/ng-interactive/2017/oct/13/the-weinstein-allegations
 - https://praxistipps.focus.de/harvey-weinstein-skandal-diese-frauen-beklagen-sexuelle-belaestigungen_116394
+- https://www.imdb.com/
 - https://de.wikipedia.org/wiki/Weinstein-Skandal
 - https://www.faz.net/aktuell/gesellschaft/kriminalitaet/harvey-weinstein-hatte-maechtige-freunde-15327758.html
 - https://www.zeit.de/kultur/2020-02/harvey-weinstein-prozess-anklage-plaedoyer
@@ -32,7 +33,7 @@ https://www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies
 - Dokumentation "Harvey Weinstein, Chronik eines Skandals" 
 
 
-Wir erstellen ein ungerichtetes Two-Mode-Netzwerk (Akteur-Unternehmen-Netzwerk) aus Schauspielerinnen und Produktionsfirmen. Fehlende Daten werden mit NA bzw. 99 codiert. Die Daten sind aus eigener (Online-)Recherche (s.o.) entstanden.    
+Wir erstellen ein ungerichtetes Two-Mode-Netzwerk (Akteur-Unternehmen-Netzwerk) aus Schauspielerinnen und Produktionsfirmen. Fehlende Daten werden mit NA bzw. 99 codiert. Die Daten sind aus eigener (Online-)Recherche auf Basis der Fokus-Liste und der Filmdatenbank IMDb (s.o.) entstanden.    
 
 # Edgelist    
 
