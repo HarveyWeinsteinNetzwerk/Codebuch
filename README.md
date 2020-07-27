@@ -62,7 +62,7 @@ Erscheinungsjahr des Films
 1 = ab 1980,        
 2 = ab 1990,        
 3 = ab 2000,        
-4 = ab 2010.        
+4 = ab 2010 bis einschließlich 2018.              
 
 **sex**  
 Geschlecht      
