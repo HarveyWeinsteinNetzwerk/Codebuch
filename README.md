@@ -92,8 +92,8 @@ Herkunft
 
 **frequency**           
 Anzahl der Produktionen unter Weinstein (Miramax und The Weinstein Company)                 
-1 = bis zweimal,        
-2 = bis viermal,        
-3 = bis sechsmal.         
+1 = kein mal,        
+2 = bis dreimal,                
+3 = ab viermal.             
 
 ##
