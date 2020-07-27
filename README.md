@@ -60,10 +60,10 @@ Produktionsfirma des Filmes
 
 **year**         
 Erscheinungsjahr des Films     
-1 = ab 1980,        
-2 = ab 1990,        
-3 = ab 2000,        
-4 = ab 2010 bis einschließlich 2018.              
+1 = 1980 bis 1989,             
+2 = 1990 bis 1999,            
+3 = 2000 bis 2009,                  
+4 = 2010 bis einschließlich 2018.                   
 
 **sex**  
 Geschlecht      
