@@ -91,7 +91,7 @@ Herkunft
 9 = Afrika.       
 
 **frequency**           
-Anzahl der Produktionen unter Weinstein        
+Anzahl der Produktionen unter Weinstein (Miramax und The Weinstein Company)                 
 1 = bis zweimal,        
 2 = bis viermal,        
 3 = bis sechsmal.         
