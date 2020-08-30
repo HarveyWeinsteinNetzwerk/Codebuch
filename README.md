@@ -54,7 +54,7 @@ Typus
 Produktionsfirma des Filmes     
 1 = Miramax,        
 2 = The Weinstein Company,       
-3 = Universal Studios,          
+3 = Universal Studios/Pictures,                   
 4 = Paramount Pictures,           
 5 = andere.       
 
@@ -86,7 +86,7 @@ Herkunft
 4 = Asien,        
 5 = Skandinavien,       
 6 = Südamerika,       
-7 = Nordamerika,        
+7 = Nordamerika (auch Kanada),                 
 8 = Russland,       
 9 = Afrika.       
 
