@@ -96,7 +96,7 @@ Anzahl der Produktionen unter Weinstein (Miramax und The Weinstein Company)
 2 = bis dreimal,                
 3 = ab viermal. 
 
-**pattern**
+**pattern**                     
 entspricht dem Muster von Harvey Weinstein
 0 = entspricht nicht Muster
 1 = entspricht Muster
