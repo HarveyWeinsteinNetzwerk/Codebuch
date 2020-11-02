@@ -94,6 +94,65 @@ Herkunft
 Anzahl der Produktionen unter Weinstein (Miramax und The Weinstein Company)                 
 1 = kein mal,        
 2 = bis dreimal,                
-3 = ab viermal.             
+3 = ab viermal. 
+
+**pattern**
+entspricht dem Muster von Harvey Weinstein
+0= entspricht nicht Muster
+1= entspricht Muster
+
+**payment** 
+Schweigegeldzahlungen
+0= keine Zahlung von Schweigegeld
+1= Zahlung
+
+**relationship** 
+Beziehung
+0= keine
+1= Ben Affleck
+2= Brad Pitt
+
+**personal connection** 
+persönliche Beziehungen
+0= keine
+1= Uma Thurman
+2= Daryl Hannah
+3= Ashley Judd
+4= Salma Hayek
+5= Gwyneth Paltrow
+6= Rosanna Arquette
+7= Claire Forlani
+8= Angelina Jolie
+9= Rose McGowan
+10= Kate Beckinsale
+
+**business connection** 
+geschäftliche Verbindungen
+0= keine
+1= Uma Thurman
+2= Annabella Sciorra
+3= Daryl Hannah
+4= Sean Young
+5= Salma Hayek
+6= Ashley Judd
+7= Kate Beckinsale
+8= Gwyneth Paltrow
+9= Alice Evans
+10= Romola Garai
+11= Mira Sorvino
+
+**social media** 
+folgen sich auf Social Media
+0= keine
+1= Uma Thurman
+2= Gwyneth Paltrow
+3= Rose McGowan
+4= Lena Headey
+5= Kate Beckinsale
+6= Mira Sorvino
+7= Ashley Judd
+8= Cara Delevigne
+9= Salma Hayek
+
 
 ##
