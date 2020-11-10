@@ -110,9 +110,9 @@ Schweigegeldzahlungen
 Beziehung   
 0 = keine   
 1 = love (Ben Affleck)  
-2 = personal connection 
-3 = business connection
-4 = social media 
+2 = personal connection      
+3 = business connection     
+4 = social media         
 
 
 ##
