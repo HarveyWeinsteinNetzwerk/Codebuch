@@ -97,22 +97,20 @@ Anzahl der Produktionen unter Weinstein (Miramax und The Weinstein Company)
 
 **pattern**                     
 entspricht dem Muster von Harvey Weinstein  
-0 = entspricht nicht Muster     
-1 = entspricht Muster
+0 = entspricht nicht Muster,     
+1 = entspricht Muster.  
 
 **payment**     
 Schweigegeldzahlungen   
-0 = keine Zahlung von Schweigegeld  
-1 = Zahlung
-
+0 = keine Zahlung von Schweigegeld,       
+1 = Zahlung.
 
 **relationship**    
 Beziehung   
-0 = keine   
-1 = love (Ben Affleck)  
-2 = personal connection      
-3 = business connection     
-4 = social media         
-
+0 = keine,   
+1 = love (Ben Affleck),       
+2 = personal connection,      
+3 = business connection,         
+4 = social media.         
 
 ##
