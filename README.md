@@ -1,11 +1,10 @@
 # Codebuch      
 
 **Datensatz**       
-Codebuch Stand 2020-07-27  
+Codebuch Stand 2020-11-10    
 
 erstellt von 
-- Clara Schneemann (cs286@hdm-stuttgart.de)
-- Brigitte Buck (bb095@hdm-stuttgart.de)
+- Clara Schneemann (cs286@hdm-stuttgart.de)     
 - Lili Biberthaler (lb144@hdm-stuttgart.de)
 - Valerija Vasylevytska (vv010@hdm-stuttgart.de)
 - Michelle Noss (mn063@hdm-stuttgart.de)
@@ -106,52 +105,14 @@ Schweigegeldzahlungen
 0 = keine Zahlung von Schweigegeld  
 1 = Zahlung
 
+
 **relationship**    
 Beziehung   
 0 = keine   
-1 = Ben Affleck     
-2 = Brad Pitt
+1 = love (Ben Affleck)  
+2 = personal connection 
+3 = business connection
+4 = social media 
 
-**personal connection**     
-persönliche Beziehungen     
-0 = keine   
-1 = Uma Thurman     
-2 = Daryl Hannah    
-3 = Ashley Judd     
-4 = Salma Hayek     
-5 = Gwyneth Paltrow     
-6 = Rosanna Arquette    
-7 = Claire Forlani  
-8 = Angelina Jolie  
-9 = Rose McGowan    
-10 = Kate Beckinsale
-
-**business connection**     
-geschäftliche Verbindungen  
-0 = keine   
-1 = Uma Thurman     
-2 = Annabella Sciorra   
-3 = Daryl Hannah    
-4 = Sean Young  
-5 = Salma Hayek     
-6 = Ashley Judd     
-7 = Kate Beckinsale     
-8 = Gwyneth Paltrow     
-9 = Alice Evans     
-10 = Romola Garai   
-11 = Mira Sorvino
-
-**social media**    
-folgen sich auf Social Media    
-0 = keine   
-1 = Uma Thurman     
-2 = Gwyneth Paltrow     
-3 = Rose McGowan    
-4 = Lena Headey     
-5 = Kate Beckinsale     
-6 = Mira Sorvino    
-7 = Ashley Judd     
-8 = Cara Delevigne  
-9 = Salma Hayek
 
 ##
