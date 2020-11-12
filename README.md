@@ -36,8 +36,18 @@ Wir erstellen ein ungerichtetes Two-Mode-Netzwerk (Akteur-Unternehmen-Netzwerk) 
 
 # Edgelist    
 
-**from** = Name Schauspielerin     
-**to** = Name des Films               
+**from** = Name der Schauspielerin  
+
+**to** = Name des Films 
+
+**relationship**    
+Beziehung     
+1 = love (Ben Affleck),       
+2 = personal connection,      
+3 = business connection,         
+4 = social media,       
+5 = keine Art von Beziehung.        
+
 
 # Nodelist
 
@@ -46,8 +56,8 @@ ID muss identisch zur Edgelist sein (z.B. Name, Abkürzung, etc.)
 
 **type**        
 Typus           
-0 = Film,         
-1 = Schauspielerin.   
+1 = Film,         
+2 = Schauspielerin.   
     
 **production**         
 Produktionsfirma des Filmes     
@@ -96,21 +106,13 @@ Anzahl der Produktionen unter Weinstein (Miramax und The Weinstein Company)
 3 = ab viermal. 
 
 **pattern**                     
-entspricht dem Muster von Harvey Weinstein  
-0 = entspricht nicht Muster,     
-1 = entspricht Muster.  
+entspricht dem Muster von Harvey Weinstein     
+1 = entspricht Muster,      
+2 = entspricht nicht Muster.        
 
 **payment**     
 Schweigegeldzahlungen   
-0 = keine Zahlung von Schweigegeld,       
-1 = Zahlung.
-
-**relationship**    
-Beziehung   
-0 = keine,   
-1 = love (Ben Affleck),       
-2 = personal connection,      
-3 = business connection,         
-4 = social media.         
+1 = keine Zahlung von Schweigegeld,       
+2 = Zahlung.
 
 ##
