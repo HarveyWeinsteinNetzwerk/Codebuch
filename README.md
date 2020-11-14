@@ -45,8 +45,7 @@ Beziehung
 1 = love (Ben Affleck),       
 2 = personal connection,      
 3 = business connection,         
-4 = social media,       
-5 = keine Art von Beziehung.        
+4 = social media.               
 
 
 # Nodelist
