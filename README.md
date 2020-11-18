@@ -87,12 +87,12 @@ Anzahl der Produktionen unter Weinstein (Miramax und The Weinstein Company)
 
 **pattern**                     
 entspricht dem Muster von Harvey Weinstein     
-1 = entspricht Muster,      
-2 = entspricht nicht Muster.        
+1 = entspricht dem Muster,      
+2 = entspricht nicht dem Muster.        
 
 **payment**     
 Schweigegeldzahlungen   
 1 = keine Zahlung von Schweigegeld,       
-2 = Zahlung.
+2 = Zahlung von Schweigegeld.   
 
 ##
