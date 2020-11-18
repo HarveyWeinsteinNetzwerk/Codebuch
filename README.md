@@ -1,7 +1,7 @@
 # Codebuch      
 
 **Datensatz**       
-Codebuch Stand 2020-11-10    
+Codebuch Stand 2020-11-18       
 
 erstellt von 
 - Clara Schneemann (cs286@hdm-stuttgart.de)     
@@ -14,25 +14,6 @@ erstellt von
 Edges.csv (Edgelist)      
 Nodes.csv (Nodelist)      
 Codebuch.rm (Codierung der Datensätze)      
-
-# Ursprung und Datenerhebung      
-Wir haben den Datensatz aller Schauspielerinnen nach folgenden Recherchen erstellt:     
-
-- https://www.theguardian.com/film/ng-interactive/2017/oct/13/the-weinstein-allegations
-- https://praxistipps.focus.de/harvey-weinstein-skandal-diese-frauen-beklagen-sexuelle-belaestigungen_116394
-- https://www.imdb.com/
-- https://de.wikipedia.org/wiki/Weinstein-Skandal
-- https://www.faz.net/aktuell/gesellschaft/kriminalitaet/harvey-weinstein-hatte-maechtige-freunde-15327758.html
-- https://www.zeit.de/kultur/2020-02/harvey-weinstein-prozess-anklage-plaedoyer
-- https://www.zeit.de/kultur/film/2020-01/harvey-weinstein-spionage-vergewaltigung-prozess-metoo-usa
-- https://www.nytimes.com/2017/10/05/us/harvey-weinstein-harassment-allegations.html
-https://www.nytimes.com/2020/02/24/nyregion/harvey-weinstein-case-sexual-assault.html
-https://www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies
-- Dokumentation "Unantastbar - Der Fall Harvey Weinstein"
-- Dokumentation "Harvey Weinstein, Chronik eines Skandals" 
-
-
-Wir erstellen ein ungerichtetes Two-Mode-Netzwerk (Akteur-Unternehmen-Netzwerk) aus Schauspielerinnen und Produktionsfirmen. Fehlende Daten werden mit NA bzw. 99 codiert. Die Daten sind aus eigener (Online-)Recherche auf Basis der Fokus-Liste und der Filmdatenbank IMDb (s.o.) entstanden.    
 
 # Edgelist    
 
